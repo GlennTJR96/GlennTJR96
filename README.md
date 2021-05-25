@@ -7,7 +7,7 @@
 
 👋 Nice meeting you! I'm Glenn!
 
-🔭 I’m currently working on my capstone project! I am building a Knowledge Management System Web application on Angular/Jakarta EE :)
+🔭 I’m currently in my vacation, and am starting my internship soon as a Product Engineer Intern. :)
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GlennTJR96)](https://github.com/anuraghazra/github-readme-stats) -->
 
